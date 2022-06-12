@@ -9,7 +9,7 @@
 
 解決過程中遇到另一個問題是，若使用者在參與會議的過程中有改名，那會沒辦法透過程式直接知道這兩個名字指的是同一個人，因此需要對與會者的名字做一些的處理，以下是針對名字處理的程式碼  
 ```
-# VBA
+// VBA
 Set wso = Worksheets("original")
 Set wsn = Worksheets("output")
 
