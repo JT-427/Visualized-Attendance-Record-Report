@@ -34,4 +34,4 @@ Selection.AutoFill Destination:=Range("H2:H" & Application.CountA(Range("A:A")))
 ```
 
 ## 成果
-![img]('https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom_demo.gif')
+![img](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom_demo.gif)
