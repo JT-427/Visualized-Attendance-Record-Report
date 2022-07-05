@@ -6,7 +6,8 @@
 ## 操作說明
 1. 下載會議報告
 2. 打開會議報告並複製內容
-3. 下載並打開[zoom.xlsm](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom.xlsm)，並點選A1儲存格貼上內容
+3. 下載並打開[zoom.xlsm](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom.xlsm)，並點選A1儲存格貼上內容  
+*(打開檔案後，若有詢問是否啟用巨集，請點擊「啟用巨集」)*
 4. 點擊『處理』按鈕
 
 
