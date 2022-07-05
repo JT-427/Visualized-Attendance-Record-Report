@@ -6,12 +6,12 @@
 ## 操作說明
 1. 下載會議報告
 2. 打開會議報告並複製內容
-3. 打開zoom.xlsm，並點選A1儲存格貼上內容
+3. 下載並打開[zoom.xlsm](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom.xlsm)，並點選A1儲存格貼上內容
 4. 點擊『處理』按鈕
 
 
 ## 操作演示
-![img](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom_demo.gif)
+![img](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/zoom_demo1.gif)
 
 ## 結果說明
 ![img](https://github.com/JT-427/Zoom-Attendance-Record/blob/master/d1.jpeg)
